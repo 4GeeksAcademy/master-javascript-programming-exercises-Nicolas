@@ -1,5 +1,7 @@
 function doubleSquareRootOf(num) {
-  // your code here
+  let squareRoot = Math.sqrt(num);
+  let result = squareRoot * 2;
+  return result;
   
 }
 
